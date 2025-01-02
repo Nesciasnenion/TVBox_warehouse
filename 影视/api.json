@@ -1,10 +1,10 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+    "spider": "https://raw.githubusercontent.com/Nesciasnenion/TVBox_warehouse/refs/heads/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "暂停｜维护",
+            "name": "TVboxLite",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -1284,7 +1284,7 @@
             "name": "肥羊",
             "type": 3,
             "api": "csp_Ysptp",
-            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "ext": "https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
